@@ -1,11 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Julia Sinclair</h1>
-<h3 align="center">A passionate Computer Science and Environmental Studies Graduate from the University of Victoria.</h3>
+<h3 align="center"> Computer Science graduate and skilled database developer with expertise in optimizing databases for efficient data analysis and decision-making.
+</h3>
 
 - 🔭 I’m currently working on **the Global Restore Project**
-
-- 🌱 I’m currently learning **d3js**
-
-- 🤝 I’m looking for help with **my data visualization project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuliaSinclair?tab=repositories](https://github.com/JuliaSinclair?tab=repositories)
 
